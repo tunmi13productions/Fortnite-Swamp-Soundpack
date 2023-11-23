@@ -1,7 +1,10 @@
 # FortniteSwampSoundpack
 A [Fortnite[fortnite] Sound Mod For Aprone's [Swamp][swamp]
 
-Please note, this pack is developed for entertainment purposes only! It is not meant for an in-depth [Fortnite][fortnite] experience. For more information, [e-mail me][email].
+Please note, this pack is developed for entertainment purposes only! It is not meant for an in-depth [Fortnite][fortnite] experience. For more information, e-mail me.
+```
+tunmi12@mail.com
+```
 
 ## Pasting Soundpack
 This section explains how to paste this soundpack's content into your Swamp directory. Follow the steps below to do so.
@@ -43,8 +46,16 @@ More coming soon...
 Steps sounds, like wood and water, have also been changed. Hopefully I can produce more of these sounds and weapons for this pack, but for now, this is just the start of things. If you have any suggestions, use my contact below.
 
 ## Contact:
-Discord: tunmi13#1880
-[E-mail][email]
+Discord:
+```
+tunmi13#1880
+```
+
+E-mail
+```
+tunmi12@mail.com
+```
+
 [X/Twitter][twitter]
 
 Have fun!

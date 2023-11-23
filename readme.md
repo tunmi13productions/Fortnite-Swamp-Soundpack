@@ -1,7 +1,8 @@
 # FortniteSwampSoundpack
-A Fortnite Sound Mod For Aprone's Swamp
+A [Fortnite[fortnite] Sound Mod For Aprone's [Swamp][swamp]
 
-Please note, this pack is developed for entertainment purposes only! It is not meant for an in-depth Fortnite experience. For more information, e-mail me at tunmi12@mail.com.
+Please note, this pack is developed for entertainment purposes only! It is not meant for an in-depth [Fortnite][fortnite] experience. For more information, [e-mail me][email].
+
 ## Pasting Soundpack
 This section explains how to paste this soundpack's content into your Swamp directory. Follow the steps below to do so.
 
@@ -42,16 +43,15 @@ More coming soon...
 Steps sounds, like wood and water, have also been changed. Hopefully I can produce more of these sounds and weapons for this pack, but for now, this is just the start of things. If you have any suggestions, use my contact below.
 
 ## Contact:
-skype: tunmi1112
-
-e-mail: tunmi12@mail.com
-
-twitter: tunmi13prod
+Discord: tunmi13#1880
+[E-mail][email]
+[X/Twitter][twitter]
 
 Have fun!
 
 ## Past Changelog
 This is the changelog before this was published to GitHub. Further changes will be added to commits.
+
 ### V4.1
 - Due to the creator of the official Fortnite Soundpack discontinuing updates, further changes may become slower and less frequent.
 - In this most likely final version, the pack has been upgraded to Season 12.
@@ -104,3 +104,8 @@ This is the changelog before this was published to GitHub. Further changes will 
 - Slightly modifies step sounds like wood and water to Fortnite's version of those sounds.
 ### V1.0
 - Starts the soundpack on Season 6, adjusting several sounds and getting weapons and other sounds in their placements.
+
+[swamp]: <https://www.kaldobsky.com/audiogames/Swamp.zip>
+[fortnite]: <https://store.epicgames.com/en-US/p/fortnite>
+[email]: <tunmi12@mail.com>
+[twitter]: <https://twitter.com/tunmi13prod>

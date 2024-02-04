@@ -118,5 +118,4 @@ This is the changelog before this was published to GitHub. Further changes will 
 
 [swamp]: <https://www.kaldobsky.com/audiogames/Swamp.zip>
 [fortnite]: <https://store.epicgames.com/en-US/p/fortnite>
-[email]: <tunmi12@mail.com>
 [twitter]: <https://twitter.com/tunmi13prod>

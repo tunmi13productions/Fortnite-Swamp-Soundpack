@@ -24,6 +24,7 @@ If the sounds don't load correctly, or don't seem to be working, please use my c
 This section explains the weapons and what they've been matched to in Fortnite. Keep in mind that some weapons that Fortnite may have may not be in Swamp, and vice versa.
 
 | Swamp Weapon | Fortnite Weapon |
+|--------------|---------------------------------|
 | Fieldkit | Healing ended sound in Fortnite |
 | Browning Citori | Pump shotgun |
 | Benelli | Tactical shotgun |
@@ -31,6 +32,7 @@ This section explains the weapons and what they've been matched to in Fortnite. 
 | SPAS12 | SPAS12 |
 | Gloc17 | Regular pistol |
 | Gloc19 | Revolver |
+| MP5 | Standard SMG |
 | AR15 | AR |
 | M4A1 | Infantry Assault Rifle |
 | ACR | Heavy Infantry Assault Rifle |
@@ -40,10 +42,20 @@ This section explains the weapons and what they've been matched to in Fortnite. 
 | M79 | Grenade Launcher |
 | M40 | Bolt Sniper |
 
-More coming soon...
+More will be added as time goes on. Again, this is just a reminder that this is for entertainment purposes. Some weapons may not be realistic or function how they would function in Fortnite.
 
-## Other changes
-Steps sounds, like wood and water, have also been changed. Hopefully I can produce more of these sounds and weapons for this pack, but for now, this is just the start of things. If you have any suggestions, use my contact below.
+## Terrain Changes
+In addition to some weapon changes, some of Fortnite's tiles have also been included in Swamp. These will be pretty easy to figure out, but here are some basics.
+
+This will not be in a table, as things have been matched to what they are in Fortnite, or similar to what they are.
+
+- Bridge
+- Deep
+- Dirt
+- Metal
+- Steel (similar to metal but uses additional sounds)
+- Water
+- Wood
 
 ## Contact:
 Discord:

@@ -1,5 +1,5 @@
 # FortniteSwampSoundpack
-A [Fortnite[fortnite] Sound Mod For Aprone's [Swamp][swamp]
+A [Fortnite][fortnite] Sound Mod For Aprone's [Swamp][swamp]
 
 Please note, this pack is developed for entertainment purposes only! It is not meant for an in-depth [Fortnite][fortnite] experience. For more information, e-mail me.
 ```
